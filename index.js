@@ -8,3 +8,12 @@ if (time < 10) {
   greeting = "Good evening";
 }
 document.getElementById("test").innerHTML = greeting;
+
+const fruits = ["James","Edward","Jabari","Jesse"];
+fruits.sort();
+document.getElementById("names").innerHTML = fruits;
+
+fruits.sort();
+fruits.reverse();
+document.getElementById("names2").innerHTML = fruits;
+
