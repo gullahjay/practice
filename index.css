@@ -1,0 +1,16 @@
+thead{
+	color:green;
+}
+tbody{
+	color:royalblue;
+}
+tfoot{
+	color: darkred;
+}
+
+table, th, td{
+	border: 1px dotted black;
+}
+#test{
+	background-color: darkred;
+}
